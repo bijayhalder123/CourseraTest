@@ -1,2 +1,2 @@
 # CourseraTest
-Coursera Test Repository
+Coursera Test Repository John Hopkins University
